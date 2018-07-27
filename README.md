@@ -21,3 +21,4 @@
  
  git commit -m "Add index.html"
  git push
+ git pull
