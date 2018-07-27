@@ -22,3 +22,5 @@
  git commit -m "Add index.html"
  git push
  git pull
+ 
+ git add -A -push more than 1 item
