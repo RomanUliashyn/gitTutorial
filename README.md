@@ -24,3 +24,11 @@
  git pull
  
  git add -A -push more than 1 item
+ 
+ 
+/ branches /
+git branch
+git checkout -b newbranch
+git checkout master
+git checkout -b newbranch2
+git log
